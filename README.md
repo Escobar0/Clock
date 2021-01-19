@@ -1,2 +1,1 @@
-# Clock
-What time is it?
+### A clock created in javascript, html and css
